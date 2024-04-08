@@ -20,3 +20,7 @@
 * [CockroachDB Test - Very big transaction - compaction spike](docs/crdb-compaction-spike.md)
 * [Exploring-Yugabytedb.md](docs/Exploring-Yugabytedb.md)
 * [Seaborn Exploring btree index efficiency](docs/seaborn-Exploring-btree-index-efficiency.md)
+
+## Presentation slides
+
+* [DB_Storage_B-tree_Columnar_LSM-tree_pgDay_Paris_2024.pdf](DB_Storage_B-tree_Columnar_LSM-tree_pgDay_Paris_2024.pdf)
