@@ -21,6 +21,11 @@
 * [Exploring-Yugabytedb.md](docs/Exploring-Yugabytedb.md)
 * [Seaborn Exploring btree index efficiency](docs/seaborn-Exploring-btree-index-efficiency.md)
 
+
+## B-Tree and LSM-Tree DEV Training
+
+* [Intro To B-tree and pgbench](docs/intro-to-btree-and-pgbench.md)
+
 ## Presentation slides
 
 * [DB_Storage_B-tree_Columnar_LSM-tree_pgDay_Paris_2024.pdf](DB_Storage_B-tree_Columnar_LSM-tree_pgDay_Paris_2024.pdf)
