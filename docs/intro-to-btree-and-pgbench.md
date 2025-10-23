@@ -127,7 +127,7 @@ sf2=# explain (analyze,buffers) select * from pgbench_accounts where aid=4242;
 (5 rows)
 ```
 
-* sf4 -  3 buffer reads ( 1 data page and 2 index pages - implicit )
+* sf4 -  3 buffer reads ( 1 data page and 3 index pages - implicit )
 
 ```
 sf4=# explain (analyze,buffers) select * from pgbench_accounts where aid=4242;
@@ -143,7 +143,7 @@ sf4=# explain (analyze,buffers) select * from pgbench_accounts where aid=4242;
 (7 rows)
 ```
 
-* sf8 -  3 buffer reads ( 1 data page and 2 index pages - implicit )
+* sf8 -  3 buffer reads ( 1 data page and 3 index pages - implicit )
 
 ```
 sf8=# explain (analyze,buffers) select * from pgbench_accounts where aid=4242;
